@@ -64,7 +64,7 @@ cd Handwritten-Digit-Recognition
 ```
 3. Run the script to train the model
 ```bash
-python model.py
+python cnn_model.py
 ```
 4. Run the script to use GUI app
 ```bash
