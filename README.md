@@ -28,14 +28,16 @@ The MNIST dataset is a benchmark dataset in the field of machine learning and co
 The architecture of the CNN is as follows:
 1. Input: 28x28 grayscale images
 2. Reshape to (28, 28, 1)
-3. Two convolutional layers with 32 filters (3x3 kernel, ReLU activation)
+3. A convolutional layers with 64 filters (3x3 kernel, ReLU activation)
 4. MaxPooling layer (2x2 pool size)
-5. Two convolutional layers with 64 filters (3x3 kernel, ReLU activation)
-6. MaxPooling layer (2x2 pool size)
-7. Flatten layer
-8. Dense layer with 128 neurons (ReLU activation)
-9. Dropout layer (40% dropout)
-10. Output layer with 10 neurons (softmax activation for classification)
+5. Dropout layer (30% dropout)
+6. A convolutional layers with 32 filters (3x3 kernel, ReLU activation)
+7. MaxPooling layer (2x2 pool size)
+8. Dropout layer (30% dropout)
+9. Flatten layer
+10. Dense layer with 128 neurons (ReLU activation)
+11. Dropout layer (50% dropout)
+12. Output layer with 10 neurons (softmax activation for classification)
 
 ---
 
