@@ -1,8 +1,11 @@
 # Handwritten-Digit-Recognition
 # MNIST Digit Recognition using CNN
 
-This repository contains a Convolutional Neural Network (CNN) implemented in TensorFlow/Keras for digit recognition using the MNIST dataset. The model is designed to classify handwritten digits (0-9) with 99.11%
+This repository contains a Convolutional Neural Network (CNN) implemented in TensorFlow/Keras for digit recognition using the MNIST dataset. The model is designed to classify handwritten digits (0-9) with 99.12%
 accuracy.
+
+![Screenshot (42)](https://github.com/user-attachments/assets/8cfe2f58-5279-4c19-aab0-643af6ef5b14)
+
 
 ---
 
