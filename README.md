@@ -42,6 +42,22 @@ The architecture of the CNN is as follows:
 
 ---
 
+## Model Results
+1. Loss and accuracy plot for Training Data
+   
+   ![L AT](https://github.com/user-attachments/assets/8fd27aab-f55a-4bb0-8cc2-475ff22f65f1)
+2. Accuracy plot for Training and Test Data
+   
+   ![ATTe](https://github.com/user-attachments/assets/db406c58-618c-4dc8-9683-0d9d274053f1)
+3. Loss and Accuracy Plots
+   
+   ![L A](https://github.com/user-attachments/assets/cc09f77a-7d89-4edc-b305-dc0e889b4146)
+4. Predction Results in GUI
+   
+   ![Results-GUI](https://github.com/user-attachments/assets/6aba2d2e-2e1e-46da-ad89-8eac82df3446)
+
+---
+
 ## Requirements
 To run this project, you need:
 - Python 3.7+
